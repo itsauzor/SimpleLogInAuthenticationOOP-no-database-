@@ -12,7 +12,6 @@ public class Main {
     private static Main log_auth = new Main();
 
      public static void main(String[] args) {
-     
         List<User> users = new ArrayList<>();
         log_auth.main(users);
     }
@@ -32,7 +31,6 @@ public class Main {
             case 2:
 	        LoginAccount.loginAccount(users);
                 break;
-
             default:
                 System.out.println("Invalid choice. Please try again.");
                 main(users);
