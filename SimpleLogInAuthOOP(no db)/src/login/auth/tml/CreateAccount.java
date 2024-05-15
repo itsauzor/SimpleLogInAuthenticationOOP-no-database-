@@ -25,7 +25,6 @@ public class CreateAccount {
         scanner.nextLine();
 	main(users);
  
-
        }
     }
 
