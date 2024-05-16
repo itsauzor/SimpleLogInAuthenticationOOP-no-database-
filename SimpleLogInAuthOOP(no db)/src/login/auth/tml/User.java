@@ -1,7 +1,6 @@
 
 package login.auth.tml;
 
-
 public class User {
 
     private String name;
