@@ -7,5 +7,6 @@ public class Home {
 
      System.out.println("\n\nYOU ARE NOW IN HOME!");
 
+        
 }
 }
